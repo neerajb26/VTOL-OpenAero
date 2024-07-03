@@ -1,4 +1,7 @@
-The objective is to design, manufacture and test a Vertical Take-Off Landing Aircraft.
+The objective is to design, manufacture and test a Vertical Take-Off Landing Aircraft based on the Pixhawk flight controller
+The aircraft is manufactured from balsa wood and foam sheets.
+An open-source software based on Mission Planner called OpenAero is utilized to develop the system
+The control system involves ailerons and elevators for better manoeuvrability of flight.
 
 
 
